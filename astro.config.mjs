@@ -5,9 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Visa Manual - for Events in Korea',
+			title: 'Visa for Events in Korea',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/sukso96100/visa-for-korea-events',
 			},
 			sidebar: [
 				{
