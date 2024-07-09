@@ -1,11 +1,10 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: 시작하기
+description: 행사 사증(비자) 지원을 시작하기 앞서 알아야 할 것을 짚어봅니다.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+한국에서 대형 오픈소스 혹은 IT 기술 컨퍼런스를 열면, 외국인 참석자가 있는 경우도 있을 것입니다. 특히 여러 국가를 순회하면서 열리는 행사를 한국에 유치하면 필연적으로 발표자는 물론, 해당 행사의 조직위원회, 이전에 여러번 참가한 참석자 등 많은 숫자의 외국인이 행사에 참석하게 됩니다. 대한민국은 단기 체류(90일 이하 체류)에 대해 사증 면제 정책이 여러 나라에 열려있는 한편, 생각보다 많은 나라에 대해서 단기 체류 목적으로 입국 전 사증을 요구하기도 합니다. 
 
-## Further reading
+그래서 행사에 참석하는 외국 중 단기 체류 사증이 필요한 경우가 있는데, 보통 주최 측에서 사증 초청장을 제공하여 사증 발급을 지원하면. 해당 외국인 참석자는 가까운 대한민국 제외공관이나 비자지원센터에 방문 또는 우편으로 접수하여 지원하게 됩니다.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+행사마다 또 차이가 있지만, 보통 외국인 참석자 대상으로 사증 초청장 등을 지원하는 경우 행정력이 상당히 많이 소모되고 외국인 초청에 대한 법적인 책임도 부담해야 하는 경우가 많아 PCO(Professional Convention Organizer)등의 국제행사 전문 대행사에 위탁하는 경우가 많습니다. 하지만 행사 운영 예산이 부족하여 대행사에 위탁하기 위한 비용부담이 커서 어려운 조직도 많을 것 입니다. 아니면 초청장을 제공할 외국인 숫자가 적어서 직접 하는것이 더 나은 경우도 있습니다. 본 웹사이트는 이렇게 어쩔 수 없이 직접 사증 지원을 제공해야 하는 행사 조직위원회 담당자 분들을 대상으로 사증 지원 방법에 대한 정보 제공을 목적으로 합니다.
