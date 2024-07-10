@@ -15,6 +15,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '시작하기', slug: 'guides/get-started' },
+						{ label: '사증 지원 일정과 조직 구성', slug: 'guides/timeline-and-preparation'}
 					],
 				},
 				{
